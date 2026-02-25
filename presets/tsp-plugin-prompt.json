@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-02-25T08:49:52.284Z",
+  "updatedAt": "2026-02-25T08:50:20.161Z",
   "presets": [
     {
       "name": "二次元1",
@@ -36,8 +36,8 @@
       "positivePrompt": "1.5::artist:aka_kan::,0.6::artist:nardack::,0.9::artist:nyum::,1.1::artist:rokita::,1.2::artist:gya_(144)::,1.4::artist:konya_karasue::,year 2025,overexposure,ray tracing,masterpiece,best quality,highres,absurdres,very aesthetic,, very aesthetic, masterpiece, no text, very aesthetic, masterpiece,very aesthetic, masterpiece,no text,",
       "negativePrompt": "lowres, {bad}, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality,{{{watermark}}}, unfinished, displeasing, chromatic aberration,{{{signature}}}, extra digits, artistic error, username, scan, [abstract],bad hands,bad foot,bad feet,bad toes,bad toe,pubic hair,chibi,monster,empty eyes,speech bubble,doll,messy hair,giant,wrong toes,phantom,patreon signature,purple shadow,mosaic censoring",
       "sequence": 1,
-      "referenceImage": "https://raw.githubusercontent.com/shaochami/image-cache/main/presets/tsp_preset_二次元照片.png?v=1772009387135",
-      "thumbnail": "https://raw.githubusercontent.com/shaochami/image-cache/main/presets/thumbnails/tsp_preset_二次元照片_thumb.webp?v=1772009387135"
+      "referenceImage": "https://raw.githubusercontent.com/shaochami/image-cache/main/presets/tsp_preset_二次元照片.png?v=1772009414334",
+      "thumbnail": "https://raw.githubusercontent.com/shaochami/image-cache/main/presets/thumbnails/tsp_preset_二次元照片_thumb.webp?v=1772009414334"
     },
     {
       "name": "像素2",
